@@ -3,7 +3,19 @@
 
 Hi there 👋
 
-I'm Fred, a UC Berkeley alum 🐻 8+ years experienced professional in law, administration, marketing, sales, and customer success management. Building cloud and AI engineering skills — both code and no-code solutions for business.
+I'm Fred, a UC Berkeley alum 🐻 8+ years experienced professional in law, administration, marketing, sales, and customer success management. Building full-stack cloud and AI engineering skills — both code and no-code solutions for business.
+
+Check out my customized website: (https://bunkeraisystem.com/)
+## Overview
+ - Custom website built using React for the frontend
+ - Connected to Supabase for database functionality
+ - Hosted via Netlify
+Features
+- Lead generation through demo request buttons linked to cal.com scheduling calendar
+- Job application system with form submission, including resume and cover letter uploads
+- GDPR-compliant secure user data storage via Supabase
+- Customized AI-powered chatbot integrated on every webpage
+- Spline animations implemented for aesthetics and interactability
 
 ## What I Bring to the Table:
 
